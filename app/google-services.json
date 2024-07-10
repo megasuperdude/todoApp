@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "242017262182",
+    "firebase_url": "https://naznurs-default-rtdb.firebaseio.com",
+    "project_id": "naznurs",
+    "storage_bucket": "naznurs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242017262182:android:d5913c380f10ff65cb6ba7",
+        "android_client_info": {
+          "package_name": "com.example.naznursdip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCshlm7532vDbMX04cm7riXlYPvOq9elt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

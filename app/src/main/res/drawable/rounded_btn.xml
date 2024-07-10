@@ -1,0 +1,16 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Фон кнопки при нажатии -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="10dp" /> <!-- Радиус закругления -->
+            <solid android:color="@color/hint_color" /> <!-- Цвет фона при нажатии -->
+        </shape>
+    </item>
+    <!-- Фон кнопки в обычном состоянии -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="10dp" /> <!-- Радиус закругления -->
+            <solid android:color="@color/bg_second" /> <!-- Цвет фона в обычном состоянии -->
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.NazNursDip" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:navigationBarColor">@color/bg_first</item>
+        <item name="android:statusBarColor">@color/bg_first</item>
+    </style>
+
+    <style name="MyDatePicker" >
+        <!-- Text color -->
+        <item name="android:textColorPrimary">@color/bg_second</item>
+        <!-- Divider color -->
+        <item name="colorControlNormal">@color/bg_second</item>
+    </style>
+
+    <style name="Theme.NazNursDip" parent="Base.Theme.NazNursDip" />
+</resources>

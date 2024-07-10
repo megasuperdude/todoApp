@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="bg_first">#4044c9</color>
+    <color name="bg_second">#ffffff</color>
+
+    <color name="hint_color">#baccda</color>
+
+    <color name="bg_first_arh">#CF9F0E</color>
+    <color name="bg_second_arh">#FFFFFF</color>
+
+    <color name="err_color">#f32f17</color>
+
+    <color name="bolt_color">#f2d739</color>
+</resources>
